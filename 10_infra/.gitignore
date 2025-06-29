@@ -43,3 +43,7 @@ terraform.rc
 _work/
 src/
 cleanup.sh
+
+# 外部のzipの解凍時に作成されるメタデータ(入手先)
+*Zone.Identifier*
+
